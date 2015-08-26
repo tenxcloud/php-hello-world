@@ -1,6 +1,6 @@
- # ThinkPhp
+# ThinkPhp
  
- ### hello world
+### hello world
  
 * Dockerfile已经写好，可以直接使用构建一个php镜像。
 * 如果在时速云官网构建镜像，构建镜像成功后，需要在该镜像页下将端口一栏改成80，这样就可以用此镜像创建容器了。
